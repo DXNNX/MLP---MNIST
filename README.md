@@ -1,5 +1,10 @@
+Danny Chaves / ITCR Student
+fb.com/DXNNXCH
+Twitter: @d4nnyc87
+Email: dxnnx@ieee.org
+
 MNIST_Recognition
 
 OOP implementation of a MLP. Uses RELU/Sigmoid/Softmax/CrossEntropy/MSE.
-Processes each batch as a matrix. Truncated initialization of weights.
 
+Own design of numbers for test the learning.
